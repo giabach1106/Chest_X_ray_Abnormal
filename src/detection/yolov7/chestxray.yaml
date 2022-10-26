@@ -1,0 +1,5 @@
+path: /workspace/nabang1010/STEAM/DoQuocDang_STEAM/DoQuocDang_STEAM/DATA/train_png   # dataset root dir
+train: /workspace/nabang1010/STEAM/DoQuocDang_STEAM/DoQuocDang_STEAM/DATA/train_new.txt
+val: /workspace/nabang1010/STEAM/DoQuocDang_STEAM/DoQuocDang_STEAM/DATA/val_new.txt
+nc: 14
+names: ['Aortic enlargement', 'Atelectasis', 'Calcification', 'Cardiomegaly', 'Consolidation', 'ILD', 'Infiltration', 'Lung Opacity', 'Nodule/Mass', 'Other lesion', 'Pleural effusion', 'Pleural thickening', 'Pneumothorax', 'Pulmonary fibrosis']

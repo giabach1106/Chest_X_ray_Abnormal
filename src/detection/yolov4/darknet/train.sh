@@ -1,0 +1,1 @@
+./darknet detector train chestxray.data chestxray.cfg yolov4.conv.137 -dont_show &> train_v4_608_02_10_con.log

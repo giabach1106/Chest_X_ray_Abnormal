@@ -1,0 +1,5 @@
+path: /workspace/nabang1010/STEAM/LeGiaBach_STEAM/DATA/dataset/yolo_15
+train: /workspace/nabang1010/STEAM/LeGiaBach_STEAM/src/yolov5/train.txt
+val: /workspace/nabang1010/STEAM/LeGiaBach_STEAM/src/yolov5/val.txt
+nc: 16
+names:['Aortic enlargement', 'Atelectasis', 'Calcification', 'Cardiomegaly', 'Consolidation', 'ILD', 'Infiltration', 'Lung Opacity', 'Nodule/Mass', 'Other lesion', 'Pleural effusion', 'Pleural thickening', 'Pneumothorax', 'Pulmonary fibrosis']

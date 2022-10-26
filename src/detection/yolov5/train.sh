@@ -1,0 +1,1 @@
+python3 train.py --img 640 --batch 15 --epochs 100 --data chestxray16.yaml --cfg models/yolov5x.yaml --weights yolov5x.pt --name yolov5x_hyp --hyp data/hyps/hyp_nabang1010.yaml 

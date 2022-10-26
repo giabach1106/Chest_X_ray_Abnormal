@@ -1,0 +1,1 @@
+python3 train_aux.py --workers 2 --device 0 --batch-size 8 --data chestxray.yaml --img 640 640 --cfg cfg/training/yolov7-e6e.yaml --weights yolov7-e6e.pt --project DoQuocDang_STEAM --name yolov7_e6e_chest_xray_new --hyp data/hyp.scratch.p6.yaml --epochs 200
